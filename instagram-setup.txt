@@ -1,0 +1,11 @@
+"Learn-Redux-Starter-Files" boilerplate
+Redux DevTools - add to chrome
+npm install
+npm start (localhost:7770)
+
+npm i --save react-addons-css-transition-group
+
+if consider adding Instagram API, get:
+*Redux-Saga* or Redux-Thunk (to work between redux state & instagram post data)
+normalizr (to next JASON API data)
+
